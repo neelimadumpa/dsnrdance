@@ -1,45 +1,9 @@
 body{
-    text-align: center;
-    background:black;
-    color: #fdfffc;
-    border: 40px solid #2ec486;
-    margin: 0px;
+    background: url('sbi\ logo.png')  center fixed;
+    background-size: cover;
 }
 
 h1{
- color: #461cff;
-}
+    margin-top: 145px;
 
-h2{
-    color: #2ec486;
-}
-
-p{
-    text-align: justify;
-    padding-left: 5%;
-    padding-right: 5%;
-}
- 
-strike{
-    background-color: yellow;
-    color: red;
-}
-
-input{
-    height:35px;
-    width:285px;
-    border:1px solid #2ec486;
-    font-size: 18px;
-    padding-left: 6%;
-}
-
-
-button{
-    height: 45px;
-    width:325px;
-    background-color:#ff9f1c;
-    font-side: 25px;
-    border:1px solid #2ec486;
-    border-radius: 25px;
-    margin-bottom:45px;
 }
